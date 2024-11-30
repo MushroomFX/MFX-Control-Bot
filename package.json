@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "get-title-at-url": "^2.0.0",
+    "node-libcurl": "^3.0.0",
+    "request": "^2.88.2"
+  },
+  "name": "mushybot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MushroomFX/MushyBot.git"
+  },
+  "author": "MushroomFX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MushroomFX/MushyBot/issues"
+  },
+  "homepage": "https://github.com/MushroomFX/MushyBot#readme"
+}
